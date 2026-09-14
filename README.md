@@ -15,7 +15,7 @@ Ingeniero en Sistemas Computacionales enfocado en el desarrollo de software, est
 
 ### Formación académica
 * **Licenciatura en Ingeniería en Sistemas Computacionales**  
-  Centro Universitario Hidalguense A.C. (Graduación estimada: 2028)
+  Centro Universitario Hidalguense A.C. 2028
 
 ---
 
