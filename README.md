@@ -56,7 +56,7 @@ Desarrollo de un juego básico en 2D implementando control de eventos, detecció
 
 ## Enlaces profesionales
 * **GitHub:** [https://github.com/Aldo-FC](https://github.com/Aldo-FC)
-* **Correo de contacto:** [aldofrancochavez@gmail.com](mailto:aldofrancochavez@gmail.com)
+* **Correo de contacto:** aldofrancochavez@gmail.com
 
 ---
 
